@@ -9,7 +9,7 @@
 👩🏻‍💻 I am a fullstack web developer. I love the world of technology because in it I can combine my irrepressible curiosity and my creative capacity like in no other: if I can imagine it, I can code it!
   
 
-⚡ Fun fact: 🎸 I am a musician and singer-songwriter. You can listen to me on [Spotify](https://open.spotify.com/artist/63A8oXzuuHEuyMRO8oMHDK?si=Dou4_5jhRTy0PtUY6GHaWA). ⚖️ I'm a lawyer.  And although I have studied different legal codes for years, I am actually passionate about the code I write in my Visual Studio!  
+⚡ Fun fact: 🎸 I am a musician and singer-songwriter. You can listen to me on [Spotify](https://open.spotify.com/artist/63A8oXzuuHEuyMRO8oMHDK?si=Dou4_5jhRTy0PtUY6GHaWA). ⚖️ I'm a lawyer.  And although I have studied different legal codes for years, I am actually passionate about the codes I write in my Visual Studio!
   
 
 <br/>  
