@@ -44,12 +44,14 @@
 
 ## Connect with me  
 <br/>  
-<a href="mailto:soledato@gmail.com">
+<span >
+  <a href="mailto:soledato@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://linkedin.com/in/sole-dato-ok/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  <a href="https://www.linkedin.com/in/sole-dato-ok/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</span>
  
   
 
